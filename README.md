@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/🌐_View_My_Live_Site-7C3AED?style=for-the-badge&logoColor=white" alt="View my live site">
 </a>
 &nbsp;
-<a href="https://eyerusalemaklilu.github.io/#availability">
+<a href="https://eyerusalemaklilu.github.io/#:~:text=My%20Availability">
   <img src="https://img.shields.io/badge/📅_Check_My_Availability-1F2937?style=for-the-badge" alt="Check my availability">
 </a>
 
@@ -64,7 +64,7 @@ I work in **East Africa Time (EAT, UTC+3)**. Need a different time? Use the form
 
 <div align="center">
 
-<a href="https://eyerusalemaklilu.github.io/">
+<a href="https://eyerusalemaklilu.github.io/#:~:text=Need%20a%20different%20time">
   <img src="https://img.shields.io/badge/Let's_work_together_→-7C3AED?style=for-the-badge" alt="Let's work together">
 </a>
 
