@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**eyerusalemaklilu/eyerusalemaklilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Eyerusalem 👋
 
-Here are some ideas to get you started:
+### Web Developer & Automation Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design, build and connect websites and web apps to the tools your team already uses.
+
+![Freelance](https://img.shields.io/badge/Open_to-Freelance-f6a900?style=for-the-badge)
+![Part-time](https://img.shields.io/badge/Open_to-Part--time-1f4d39?style=for-the-badge)
+![Location](https://img.shields.io/badge/Based_in-Addis_Ababa,_Ethiopia-2f7a58?style=for-the-badge)
+
+<br>
+
+<a href="https://eyerusalemaklilu.github.io">
+  <img src="portfolio-preview.png" alt="Preview of my live portfolio: description, live availability, skills and projects" width="100%">
+</a>
+
+<br>
+
+[**🌐 Open my live portfolio →**](https://eyerusalemaklilu.github.io)
+
+<sub>Live availability · Skills · 6 projects · Team task-tracking automation</sub>
+
+<br>
+
+[LinkedIn](https://linkedin.com/in/your-name) · [Telegram](https://t.me/your_username) · [Email](mailto:your-name@gmail.com)
+
+</div>
