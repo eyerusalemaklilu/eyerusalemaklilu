@@ -1,19 +1,19 @@
 <div align="center">
 
-# Hi there, I'm Eyerusalem Aklilu 👋
+# Hi, I'm Eyerusalem Aklilu 👋
 
-### 💻 Website Developer
+### 💻 Website Developer · Web Apps · Work Tools
 
-*I build pages and web applications, from the first layout to launch.*
+*Clear, friendly websites, from the first layout to launch.*
 
 <br>
 
 <a href="https://eyerusalemaklilu.github.io/">
-  <img src="https://img.shields.io/badge/🌐_View_My_Live_Site-7C3AED?style=for-the-badge&logoColor=white" alt="View my live site">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Site-7C3AED?style=for-the-badge" alt="Visit my site">
 </a>
 &nbsp;
-<a href="https://eyerusalemaklilu.github.io/#:~:text=My%20Availability">
-  <img src="https://img.shields.io/badge/📅_Check_My_Availability-1F2937?style=for-the-badge" alt="Check my availability">
+<a href="https://eyerusalemaklilu.github.io/#availability">
+  <img src="https://img.shields.io/badge/📅_Book_a_Time-1F2937?style=for-the-badge" alt="Book a time">
 </a>
 
 <br><br>
@@ -22,26 +22,19 @@
   <img src="https://image.thum.io/get/width/1000/crop/700/https://eyerusalemaklilu.github.io/" alt="Preview of my portfolio website" width="85%">
 </a>
 
-<sub>👆 Click the preview to open my portfolio</sub>
+<sub>👆 Click to see my work, my availability and how to reach me</sub>
 
 </div>
 
 ---
 
-## 🙋‍♀️ About Me
+## 👋 About
 
-I'm a website developer who designs and builds pages and web applications, and connects them to the tools your team already uses. I care about clear layouts that are easy to scan and use.
+I'm a website developer who builds clear, easy-to-use pages and web apps, and I'd love to help with yours.
 
-## 🛠️ What I Do
+**[See my work and get in touch on my site →](https://eyerusalemaklilu.github.io/)**
 
-| | |
-|---|---|
-| 🎨 **UI/UX** | Clear layouts and flows that are easy to scan and use |
-| 🌐 **Web Design & Development** | Pages and web applications, from first layout to launch |
-| 🗂️ **Content Organization** | Structuring pages so information is easy to find |
-| ⚙️ **Automation** | Connecting tools, such as my Slack and Jira task tracker |
-
-## 🧰 Tools & Platforms
+## 🧰 Work Tools
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -49,22 +42,20 @@ I'm a website developer who designs and builds pages and web applications, and c
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 </p>
 
-## 🚀 Currently
+## 📅 Availability
 
-- 🔨 Building new websites and web applications
-- ⚡ Working on Slack and Jira automation
-- 📬 Open to **freelance, remote, full-time, and contract** work
-
-## 🕒 Availability
-
-I work in **East Africa Time (EAT, UTC+3)**. Need a different time? Use the form on my site and I'll confirm by email.
+🟢 Open to **freelance, remote, full-time and contract** work, Monday to Saturday and Sunday mornings (East Africa Time). Exact hours are on my site.
 
 <div align="center">
 
-<a href="https://eyerusalemaklilu.github.io/#:~:text=Need%20a%20different%20time">
+<a href="https://eyerusalemaklilu.github.io/#availability">
   <img src="https://img.shields.io/badge/Let's_work_together_→-7C3AED?style=for-the-badge" alt="Let's work together">
 </a>
 
