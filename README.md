@@ -1,10 +1,12 @@
 <div align="center">
 
-# Hi, I'm Eyerusalem Aklilu 👋
+<a href="https://eyerusalemaklilu.github.io/">
+  <img src="assets/hero.svg" alt="Hi there, I'm Eyerusalem Aklilu. Website developer building pages and web applications, from the first layout to launch." width="100%">
+</a>
 
-### 💻 Website Developer · Web Apps · Work Tools
-
-*Clear, friendly websites, from the first layout to launch.*
+<a href="https://eyerusalemaklilu.github.io/">
+  <img src="assets/projects.svg" alt="Projects completed, and I'm a website developer: pages, web apps and work tools." width="100%">
+</a>
 
 <br>
 
@@ -16,23 +18,11 @@
   <img src="https://img.shields.io/badge/📅_Book_a_Time-1F2937?style=for-the-badge" alt="Book a time">
 </a>
 
-<br><br>
-
-<a href="https://eyerusalemaklilu.github.io/">
-  <img src="https://image.thum.io/get/width/1000/crop/700/https://eyerusalemaklilu.github.io/" alt="Preview of my portfolio website" width="85%">
-</a>
-
-<sub>👆 Click to see my work, my availability and how to reach me</sub>
+<sub>👆 Click any banner to see my work, my availability and how to reach me</sub>
 
 </div>
 
 ---
-
-## 👋 About
-
-I'm a website developer who builds clear, easy-to-use pages and web apps, and I'd love to help with yours.
-
-**[See my work and get in touch on my site →](https://eyerusalemaklilu.github.io/)**
 
 ## 🧰 Work Tools
 
