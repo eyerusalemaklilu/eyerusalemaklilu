@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://eyerusalemaklilu.github.io/">
-  <img src="assets/hero.svg" alt="Hi there, I'm Eyerusalem Aklilu. Website developer building pages and web applications, from the first layout to launch." width="100%">
-</a>
+<sub><code>Hi there, I'm</code></sub>
 
-<a href="https://eyerusalemaklilu.github.io/">
-  <img src="assets/projects.svg" alt="Projects completed, and I'm a website developer: pages, web apps and work tools." width="100%">
-</a>
+# Eyerusalem Aklilu 👋
+
+### 💻 Website developer
+
+*I build pages and web applications, from the first layout to launch.*
 
 <br>
 
@@ -18,11 +18,31 @@
   <img src="https://img.shields.io/badge/📅_Book_a_Time-1F2937?style=for-the-badge" alt="Book a time">
 </a>
 
-<sub>👆 Click any banner to see my work, my availability and how to reach me</sub>
+<br><br>
+
+<a href="https://eyerusalemaklilu.github.io/">
+  <img src="https://image.thum.io/get/width/1000/crop/700/https://eyerusalemaklilu.github.io/" alt="Preview of my portfolio website" width="85%">
+</a>
+
+<sub>👆 Click to see my work, my availability and how to reach me</sub>
 
 </div>
 
 ---
+
+<div align="center">
+
+## `</>` I'm a website developer
+
+I design and build pages and web applications, and connect them to the tools your team uses.
+
+<img src="https://img.shields.io/badge/Pages-16221B?style=flat-square" alt="Pages">
+<img src="https://img.shields.io/badge/Web_apps-16221B?style=flat-square" alt="Web apps">
+<img src="https://img.shields.io/badge/Work_tools-16221B?style=flat-square" alt="Work tools">
+
+**[See my work and get in touch on my site →](https://eyerusalemaklilu.github.io/)**
+
+</div>
 
 ## 🧰 Work Tools
 
