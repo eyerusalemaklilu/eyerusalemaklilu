@@ -49,7 +49,7 @@ I design and build pages and web applications, and connect them to the tools you
 | 🎨 | **UI/UX** | Clear layouts and flows that are easy to scan and use. |
 | 🌐 | **Web design and development** | Pages and web applications, from first layout to launch. |
 | 🗂️ | **Content organization** | Structuring pages so information is easy to find. |
-| ✅ | **Work & Collaboration Tools ** | I build smart tools that simplify teamwork, streamline task management, and keep projects on track. |
+| ✅ | **Work & Collaboration Tools** | I build smart tools that simplify teamwork, streamline task management, and keep projects on track. |
 
 ## 🧰 Tools and Platforms
 
